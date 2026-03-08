@@ -60,3 +60,29 @@ while game_should_continue:
     else:
         print(f"Sorry, that's wrong. Final score: {score}")
         game_should_continue = False
+
+#description 
+
+The game uses Python concepts like:
+
+random module
+
+functions
+
+lists and dictionaries
+
+loops and conditions
+
+It also includes popular personalities like Cristiano Ronaldo, Lionel Messi, and Selena Gomez, comparing their follower counts.
+
+🎮 Game Flow
+
+Program displays the game logo.
+
+Two accounts are shown (A vs B).
+
+User guesses who has more followers.
+
+If correct → score increases.
+
+If wrong → game stops and shows final score.
