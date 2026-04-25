@@ -77,7 +77,7 @@ It also includes popular personalities like Cristiano Ronaldo, Lionel Messi, and
 
 🎮 Game Flow
 
-Program displays the game logo.
+Program displays the game logo.  
 
 Two accounts are shown (A vs B).
 
