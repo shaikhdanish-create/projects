@@ -6,7 +6,7 @@ logo = """
       HIGHER LOWER GAME
 ==============================
 """
-
+  
 # Sample data
 data = [
     {"name": "Instagram", "description": "Social media platform", "country": "USA", "follower_count": 650},
